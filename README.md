@@ -7,7 +7,7 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/sahinurrahman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sahinur-rahman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sahinurrahman1847@gmail.com"><img src="https://img.shields.io/badge/Email-sahinurrahman1847@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
