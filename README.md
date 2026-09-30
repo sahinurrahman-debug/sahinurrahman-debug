@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahinur Rahman</h1>
+<img align="center" src="github banner.png" alt="banner" height="400" width="100%"/>
 <h3 align="center">A software engineer from India specializing in AI/ML, full-stack development, and building scalable, intelligent solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
